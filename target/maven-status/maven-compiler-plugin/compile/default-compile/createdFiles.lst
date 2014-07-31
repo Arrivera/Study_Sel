@@ -1,0 +1,6 @@
+ru\st\Selenium\pages\Page.class
+ru\st\Selenium\webdriver\WebDriverFactory.class
+ru\st\Selenium\util\PropertyLoader.class
+ru\st\Selenium\webdriver\AuthenticatedHtmlUnitDriver.class
+ru\st\Selenium\pages\HomePage.class
+ru\st\Selenium\util\Browser.class
